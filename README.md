@@ -50,15 +50,13 @@ Stop making issues about Linux not being able to connect, we are aware. This inc
     - Remember, this is mainly for developers.
 
 # How to use
-- 1. Clone this repo with `git clone --recursive https://github.com/pwnd2e/palera1n16 && cd palera1n16`
+- 1. Clone this repo with `git clone --recursive https://github.com/2escustomservices/palera1n162e && cd palera1n16`
     - \[A10+\] Before running, you **must** disable your passcode
     - i0S 16 users make sure before you jailbreak turn on dev mode.
     - i0S 16 users make sure you never had passcode enabled if did you need to reset in settings or restore.
     - Put your device in DFU Mode before running.
 - 2. For fakerootfs run `./palera1n.sh --tweaks <ios version youre on atm> --semi-tethered` 
     - With semi-tether after first install and re-jailbreaking just hit activate tweaks then respring
-    - You will be prompt do you unerstand type  `Yes, pwn my idevice`  
-    - then it will ask you again type `Yes, do as I say`
 - 3. Let it ra1n
 
 
